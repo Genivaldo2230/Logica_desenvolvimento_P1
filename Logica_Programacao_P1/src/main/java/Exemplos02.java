@@ -1,5 +1,3 @@
-package exemplos.src.main.java.br.senac.tads.pi1b.exemplos;
-
 /*
 Obsservações diversas sobre Java:
 - Lembrar de usar "ponto-e-virgula" ao final de cada sentença

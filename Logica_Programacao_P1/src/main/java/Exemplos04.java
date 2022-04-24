@@ -1,5 +1,3 @@
-package exemplos.src.main.java.br.senac.tads.pi1b.exemplos;
-
 public class Exemplos04 {
 
     public static void main(String[] args) {

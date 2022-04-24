@@ -1,5 +1,3 @@
-package exemplos.src.main.java.br.senac.tads.pi1b.exemplos;
-
 import java.util.Scanner;
 
 public class ExemploScanner {

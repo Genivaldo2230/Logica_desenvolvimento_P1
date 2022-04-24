@@ -1,5 +1,3 @@
-package exemplos.src.main.java.br.senac.tads.pi1b.exemplos;
-
 import java.time.LocalDateTime;
 
 public class Exemplos01 {
