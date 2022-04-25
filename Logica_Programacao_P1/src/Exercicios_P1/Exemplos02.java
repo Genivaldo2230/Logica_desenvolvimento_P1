@@ -1,17 +1,15 @@
-/*
-Obsservações diversas sobre Java:
-- Lembrar de usar "ponto-e-virgula" ao final de cada sentença
-- Lembrar que letras maiúsculas e minúsculas são diferentes no Java
-- Usar aspas duplas para delimitar o texto de uma String
-- Cuidado ao copiar/colar código do Word - Normalmente o Word converte as aspas duplas para caracteres diferentes que não são reconhecidos como aspas duplas
-*/
+// Obsservações diversas sobre Java:
+// - Lembrar de usar "ponto-e-virgula" ao final de cada sentença
+// - Lembrar que letras maiúsculas e minúsculas são diferentes no Java
+// - Usar aspas duplas para delimitar o texto de uma String
+// - Cuidado ao copiar/colar código do Word - Normalmente o Word converte as aspas duplas para caracteres diferentes que não são reconhecidos como aspas duplas
 
 /**
- * Exemplos de uso de variáveis do tipo String
+ * Exemplos de uso de vari&aacute;veis do tipo String
  *
  * @author ftsuda
  */
-public class Exemplos02 {
+public final class Exemplos02 {
 
     public static void main(String[] args) {
         String mensagem; // Declaração da variável "mensagem"

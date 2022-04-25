@@ -1,7 +1,6 @@
 import java.time.LocalDateTime;
-
+// @java.lang.SuppressWarnings("Since15")
 public class Exemplos01 {
-
     public static void main(String[] args) {
 
         System.out.print("mensagem 1");
